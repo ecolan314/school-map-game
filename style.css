@@ -54,7 +54,7 @@ table {
     justify-content: center;
 }
 #map {
-    background: no-repeat 100% / 100% url(/images/map.png);
+    background: no-repeat 100% / 100% url(images/map.png);
 }
 
 .t1 {
